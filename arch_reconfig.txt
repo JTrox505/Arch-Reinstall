@@ -1,0 +1,1 @@
+alacritty feh i3 neovim polybar pywal xinitrc

@@ -1,0 +1,3 @@
+Create aliases (alias open_python="cd ~/coding/python_projects" alias open_python="cd ~/coding/frontend_projects"
+alias open_python="cd ~/coding/odin_projects" alias c="clear" alias vim="nvim" alias brightness = "sudo vim /sys/class/backlight/amdgpu_bl1/brightness")
+import colorscheme from pywal (cat ~/.cache/wal/sequences &)

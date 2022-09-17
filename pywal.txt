@@ -1,0 +1,2 @@
+$wal -i path/to/image
+add to ~/.bashrc ((cat ~/.cache/wal/sequences &))

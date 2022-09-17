@@ -1,0 +1,1 @@
+import from GitHub (or do manually for safe installation of plug.vim)

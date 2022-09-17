@@ -1,0 +1,1 @@
+ alacritty chromium feh(wallpaper) git i3 neofetch neovim(vim-plug) polybar pywal

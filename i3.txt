@@ -1,0 +1,4 @@
+Apply feh (exec --no-startup-id feh --bg-fill /path/to/image)
+Replace current terminal emulator with alacritty ($mod+Return shortcut)
+create chromium shortcut (bindsym $mod+z exec chromium)
+enable picom on startup (exec --no-startup-id picom -b)
